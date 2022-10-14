@@ -2,8 +2,8 @@
 
 Meal randomizer for your leisure.
 
-## Created By Ty Flannagan
+### Created By Ty Flannagan
 
-### `javascript`
-### `react`
-### `css3`
+#### `javascript`
+#### `react`
+#### `css3`
