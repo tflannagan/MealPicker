@@ -7,5 +7,3 @@ Meal randomizer for your leisure.
 #### `javascript`
 #### `react`
 #### `css3`
-
-<img src="/path/to/MPscreenshot1.jpg" alt="showcase photo" title="Showcase Picture">
